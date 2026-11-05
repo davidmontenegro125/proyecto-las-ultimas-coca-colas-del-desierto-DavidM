@@ -3,3 +3,7 @@
 R001;Clásica;Gaseosa;8;0.5;La original: fría y sin preguntas;classic.png;freepnglogos.com
 R002;Zero;Gaseosa;7;0.5;La misma sed con menos azúcar;zero.png;freepnglogos.com
 R003;Six pack;Paquete;10;3.0;Seis botellas: la reserva del desierto;six-pack.png;freepnglogos.com
+R004;Fanta lata;Gaseosa;3;0.25;Un sabor diferente;fanta.png;www.pngwing.com
+R005;Uva postobon;Gaseosa;4;0.3;La de los domingos;postobon.png;www.pngwing.com
+R006;Pepsi lata;Gaseosa;3;0.25;La más deliciosa;pepsi.png;www.pngwing.com
+R007;Sprite personal;Gaseosa;5;0.3;El rey olvidado ha vuelto;sprite.png;www.pngwing.com
